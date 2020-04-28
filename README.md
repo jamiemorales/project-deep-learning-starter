@@ -1,4 +1,4 @@
-# Deep Learning Starters
+# Deep Learning Starter
 
 ## About
 
@@ -29,11 +29,11 @@ After completion, someone will have built intuition over the deep learning lifec
 
 If you found this work interesting, you might like the following. You can find them at [github.com/jamiemorales](https://github.com/jamiemorales).
 
-Machine Learning Starters
+Machine Learning Starter
 
-Deep Learning Starters
+Deep Learning Starter
 
-Natural Language Processing Starters
+Natural Language Processing Starter
 
 
 
