@@ -14,7 +14,6 @@ After completion, someone will have built intuition over the deep learning lifec
 
 01 Classify images of clothing articles using a convolutional neural network
 
-
 02 Classify sign language digits using a convolutional neural network
 
 03 Classify sign language alphabet using a convolutional neural network
@@ -46,5 +45,5 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Data sources
 
-[Datasets and sources]()
+[Datasets and sources](https://github.com/jamiemorales/project-deep-learning-starters/tree/master/00-Datasets)
 
