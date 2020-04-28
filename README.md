@@ -45,5 +45,5 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Data sources
 
-[Datasets and sources](https://github.com/jamiemorales/project-deep-learning-starters/tree/master/00-Datasets)
+[Datasets and sources](https://github.com/jamiemorales/project-deep-learning-starters/blob/master/00-Datasets/Data%20sources.txt)
 
